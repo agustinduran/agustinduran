@@ -1,7 +1,7 @@
 ## I am Agustín Durán - Software Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-agustinduran-blue)](https://www.linkedin.com/in/agustineduran)
-[![](https://img.shields.io/badge/Gmail-agustineduran@gmail.com-red)](mail:agustineduran@gmail.com)
+[![](https://img.shields.io/badge/Gmail-agustineduran@gmail.com-red)](mailto:agustineduran@gmail.com)
 
 ### <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"> 
 ### About me:
