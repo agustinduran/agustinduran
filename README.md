@@ -29,7 +29,7 @@ const mySelf = {
         servers: ["linux"],
         devops: ["docker", "aws"],
     },
-    architecture: ["microservices", "monolith", "hexagonal", "lucid"],
+    architecture: ["microservices", "monolith", "hexagonal", "lucid", "design-patterns"],
     love: "travel, programing, learning, food"
 };
 ```
